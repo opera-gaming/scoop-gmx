@@ -1,12 +1,12 @@
 {
-    "version": "0.3.24",
+    "version": "0.3.25",
     "description": "GameMaker eXperimental CLI",
     "homepage": "https://github.com/opera-gaming/scoop-gmx",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/opera-gaming/scoop-gmx/releases/download/v0.3.24/gmx-0.3.24.x86_64-windows.zip",
-            "hash": "e274a85f5f6ceb503ae84388e9bb657312cf6dfbf2d83dc7e662c0fb871317ba"
+            "url": "https://github.com/opera-gaming/scoop-gmx/releases/download/v0.3.25/gmx-0.3.25.x86_64-windows.zip",
+            "hash": "933e35b544fe0cc8571b5c78c454a3969d1464379cbfe33b9fb905e685a0fe77"
         }
     },
     "bin": "gmx.exe",
